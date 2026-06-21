@@ -1,0 +1,11 @@
+* linguist-vendored=false
+* linguist-generated=false
+landshark.v          linguist-language=V
+landshark_coq.v      linguist-language=Coq
+landshark.r          linguist-language=R
+landshark_prolog.pro linguist-language=Prolog
+landshark.fs         linguist-language=F#
+landshark.m          linguist-language=Objective-C
+landshark.sv         linguist-language=SystemVerilog
+landshark.pl         linguist-language=Perl
+landshark.ts         linguist-language=TypeScript
