@@ -1,0 +1,2815 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//landshark//LANCE//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LANCE IS PATIENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260621-c57a88@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:LANCE IS PATIENT pixel 1/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260622-ca251e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:LANCE IS PATIENT pixel 2/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260623-99b532@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:LANCE IS PATIENT pixel 3/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260624-6dfa60@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:LANCE IS PATIENT pixel 4/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260625-52e079@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:LANCE IS PATIENT pixel 5/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260626-0be0a5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:LANCE IS PATIENT pixel 6/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260627-327ada@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:LANCE IS PATIENT pixel 7/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260704-5b03a1@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:LANCE IS PATIENT pixel 8/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260711-71cd2e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:LANCE IS PATIENT pixel 9/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260718-b5cfcf@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:LANCE IS PATIENT pixel 10/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260725-78d379@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:LANCE IS PATIENT pixel 11/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260803-ea5df7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:LANCE IS PATIENT pixel 12/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260804-4f430c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:LANCE IS PATIENT pixel 13/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260805-4b7b29@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:LANCE IS PATIENT pixel 14/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260806-b700ec@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:LANCE IS PATIENT pixel 15/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260807-769aa8@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:LANCE IS PATIENT pixel 16/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260808-fd8f3d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:LANCE IS PATIENT pixel 17/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260809-8d0047@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:LANCE IS PATIENT pixel 18/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260812-28b375@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:LANCE IS PATIENT pixel 19/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260816-42f112@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:LANCE IS PATIENT pixel 20/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260819-2753ab@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:LANCE IS PATIENT pixel 21/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260823-677783@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:LANCE IS PATIENT pixel 22/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260826-053eff@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:LANCE IS PATIENT pixel 23/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260831-de8fa9@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:LANCE IS PATIENT pixel 24/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260901-f50f14@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:LANCE IS PATIENT pixel 25/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260902-669028@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:LANCE IS PATIENT pixel 26/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260903-d7d2be@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:LANCE IS PATIENT pixel 27/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260904-072baf@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:LANCE IS PATIENT pixel 28/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260905-4038ea@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:LANCE IS PATIENT pixel 29/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260913-e671e0@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:LANCE IS PATIENT pixel 30/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260914-04f15c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:LANCE IS PATIENT pixel 31/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260915-5fa0db@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:LANCE IS PATIENT pixel 32/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260916-eb90c9@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:LANCE IS PATIENT pixel 33/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260917-3e068d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:LANCE IS PATIENT pixel 34/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260918-f72f90@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:LANCE IS PATIENT pixel 35/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260919-9601c5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:LANCE IS PATIENT pixel 36/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260921-cc6deb@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:LANCE IS PATIENT pixel 37/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260922-bb5696@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:LANCE IS PATIENT pixel 38/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20260930-907060@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:LANCE IS PATIENT pixel 39/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261008-9cb125@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:LANCE IS PATIENT pixel 40/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261009-e59b0b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:LANCE IS PATIENT pixel 41/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261011-3ace2c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:LANCE IS PATIENT pixel 42/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261012-9c75be@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:LANCE IS PATIENT pixel 43/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261013-fef2a4@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:LANCE IS PATIENT pixel 44/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261014-d1aa87@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:LANCE IS PATIENT pixel 45/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261015-da746a@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:LANCE IS PATIENT pixel 46/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261016-86fa13@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:LANCE IS PATIENT pixel 47/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261017-39ebca@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:LANCE IS PATIENT pixel 48/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261026-571e76@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:LANCE IS PATIENT pixel 49/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261027-0553dc@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:LANCE IS PATIENT pixel 50/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261028-4a5aa7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:LANCE IS PATIENT pixel 51/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261029-4f132f@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:LANCE IS PATIENT pixel 52/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261030-1368e7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:LANCE IS PATIENT pixel 53/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261101-cfb09d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:LANCE IS PATIENT pixel 54/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261107-4e32ac@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:LANCE IS PATIENT pixel 55/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261108-8daeb5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:LANCE IS PATIENT pixel 56/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261114-cfcce5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:LANCE IS PATIENT pixel 57/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261115-dfd1d5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LANCE IS PATIENT pixel 58/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261121-42dbc6@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LANCE IS PATIENT pixel 59/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261123-24a80b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:LANCE IS PATIENT pixel 60/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261127-9e8f91@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:LANCE IS PATIENT pixel 61/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261206-65e4a3@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LANCE IS PATIENT pixel 62/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261207-c8a70b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:LANCE IS PATIENT pixel 63/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261208-621e49@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:LANCE IS PATIENT pixel 64/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261209-9cf299@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:LANCE IS PATIENT pixel 65/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261210-94ea97@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:LANCE IS PATIENT pixel 66/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261211-53a503@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:LANCE IS PATIENT pixel 67/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261212-eb2472@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:LANCE IS PATIENT pixel 68/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261213-dec98b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:LANCE IS PATIENT pixel 69/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261216-0bd79a@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:LANCE IS PATIENT pixel 70/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261219-de72f0@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:LANCE IS PATIENT pixel 71/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261220-8b7631@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:LANCE IS PATIENT pixel 72/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261223-0fe3fc@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:LANCE IS PATIENT pixel 73/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261226-7e5254@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:LANCE IS PATIENT pixel 74/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261227-634977@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:LANCE IS PATIENT pixel 75/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20261230-09e38d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:LANCE IS PATIENT pixel 76/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270102-0dab89@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:LANCE IS PATIENT pixel 77/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270103-059d34@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:LANCE IS PATIENT pixel 78/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270109-c77a5d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:LANCE IS PATIENT pixel 79/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270207-fa21f5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:LANCE IS PATIENT pixel 80/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270213-73d4cd@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:LANCE IS PATIENT pixel 81/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270214-0d8468@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:LANCE IS PATIENT pixel 82/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270220-95a45c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:LANCE IS PATIENT pixel 83/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270221-f4e822@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:LANCE IS PATIENT pixel 84/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270222-66b289@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:LANCE IS PATIENT pixel 85/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270223-79415c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:LANCE IS PATIENT pixel 86/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270224-a22e00@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:LANCE IS PATIENT pixel 87/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270225-bfd08c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:LANCE IS PATIENT pixel 88/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270226-507557@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:LANCE IS PATIENT pixel 89/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270227-88791b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:LANCE IS PATIENT pixel 90/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270228-010a64@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:LANCE IS PATIENT pixel 91/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270306-eb0da3@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:LANCE IS PATIENT pixel 92/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270307-53f0d9@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:LANCE IS PATIENT pixel 93/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270313-333288@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:LANCE IS PATIENT pixel 94/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270322-c0f450@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:LANCE IS PATIENT pixel 95/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270323-bca8dd@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:LANCE IS PATIENT pixel 96/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270327-2e094c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:LANCE IS PATIENT pixel 97/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270328-c7ad38@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:LANCE IS PATIENT pixel 98/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270331-c0bb16@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:LANCE IS PATIENT pixel 99/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270403-e4f094@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:LANCE IS PATIENT pixel 100/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270404-342565@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:LANCE IS PATIENT pixel 101/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270407-426f81@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:LANCE IS PATIENT pixel 102/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270410-7bee68@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:LANCE IS PATIENT pixel 103/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270411-c336cf@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:LANCE IS PATIENT pixel 104/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270414-bb1b31@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:LANCE IS PATIENT pixel 105/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270417-2c3798@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:LANCE IS PATIENT pixel 106/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270418-6cce63@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:LANCE IS PATIENT pixel 107/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270422-ffdab9@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:LANCE IS PATIENT pixel 108/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270423-b26bca@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:LANCE IS PATIENT pixel 109/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270523-d96ed6@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:LANCE IS PATIENT pixel 110/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270524-11e15c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:LANCE IS PATIENT pixel 111/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270525-df9850@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:LANCE IS PATIENT pixel 112/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270526-f0a878@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:LANCE IS PATIENT pixel 113/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270527-1c1265@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:LANCE IS PATIENT pixel 114/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270528-19c172@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:LANCE IS PATIENT pixel 115/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270529-3ea337@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:LANCE IS PATIENT pixel 116/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270530-7a7340@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:LANCE IS PATIENT pixel 117/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270602-546070@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:LANCE IS PATIENT pixel 118/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270606-eeaf84@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:LANCE IS PATIENT pixel 119/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270609-5ea2c4@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:LANCE IS PATIENT pixel 120/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270613-29f644@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:LANCE IS PATIENT pixel 121/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270616-d58946@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:LANCE IS PATIENT pixel 122/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270621-c74de4@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:LANCE IS PATIENT pixel 123/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270622-3912f1@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:LANCE IS PATIENT pixel 124/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270705-6f1a11@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:LANCE IS PATIENT pixel 125/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270706-9042a9@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:LANCE IS PATIENT pixel 126/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270707-919f7b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:LANCE IS PATIENT pixel 127/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270708-e3cc20@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:LANCE IS PATIENT pixel 128/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270709-c8d496@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:LANCE IS PATIENT pixel 129/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270710-12daa7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:LANCE IS PATIENT pixel 130/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270711-a26d1c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:LANCE IS PATIENT pixel 131/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270714-8112f7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:LANCE IS PATIENT pixel 132/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270718-6b6809@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:LANCE IS PATIENT pixel 133/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270721-9e3008@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:LANCE IS PATIENT pixel 134/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270725-24a764@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:LANCE IS PATIENT pixel 135/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270728-a46f85@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:LANCE IS PATIENT pixel 136/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270802-5d897a@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:LANCE IS PATIENT pixel 137/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270803-7e2544@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:LANCE IS PATIENT pixel 138/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270804-e9069c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:LANCE IS PATIENT pixel 139/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270805-8856a5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:LANCE IS PATIENT pixel 140/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270806-c76400@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:LANCE IS PATIENT pixel 141/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270807-b3de33@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:LANCE IS PATIENT pixel 142/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270815-a45bb3@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:LANCE IS PATIENT pixel 143/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270822-52a1dc@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:LANCE IS PATIENT pixel 144/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270829-9b0f0e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:LANCE IS PATIENT pixel 145/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270830-bab358@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:LANCE IS PATIENT pixel 146/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270831-dfeb42@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:LANCE IS PATIENT pixel 147/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270901-901def@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:LANCE IS PATIENT pixel 148/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270902-7a2721@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:LANCE IS PATIENT pixel 149/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270903-098c8e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:LANCE IS PATIENT pixel 150/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270904-178009@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:LANCE IS PATIENT pixel 151/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270905-15ca83@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:LANCE IS PATIENT pixel 152/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270912-0305c1@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:LANCE IS PATIENT pixel 153/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20270926-7e4878@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:LANCE IS PATIENT pixel 154/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271002-c8f365@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:LANCE IS PATIENT pixel 155/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271003-e79243@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:LANCE IS PATIENT pixel 156/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271009-6d579c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:LANCE IS PATIENT pixel 157/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271010-e023c0@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:LANCE IS PATIENT pixel 158/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271011-4131ec@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:LANCE IS PATIENT pixel 159/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271012-fa62f5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:LANCE IS PATIENT pixel 160/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271013-3d1d57@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:LANCE IS PATIENT pixel 161/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271014-8a0187@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:LANCE IS PATIENT pixel 162/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271015-7a5d52@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:LANCE IS PATIENT pixel 163/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271016-f47f55@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:LANCE IS PATIENT pixel 164/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271017-349c5f@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:LANCE IS PATIENT pixel 165/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271023-47783c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:LANCE IS PATIENT pixel 166/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271024-4854d3@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:LANCE IS PATIENT pixel 167/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271030-5039fa@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:LANCE IS PATIENT pixel 168/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271107-aa607c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:LANCE IS PATIENT pixel 169/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271108-e4dd0b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:LANCE IS PATIENT pixel 170/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271109-ded061@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:LANCE IS PATIENT pixel 171/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271110-d6d7bc@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:LANCE IS PATIENT pixel 172/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271111-6de3c2@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:LANCE IS PATIENT pixel 173/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271112-846c52@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:LANCE IS PATIENT pixel 174/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271113-2cba38@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:LANCE IS PATIENT pixel 175/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271114-ea6b08@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:LANCE IS PATIENT pixel 176/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271117-bcc486@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:LANCE IS PATIENT pixel 177/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271120-525f9a@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:LANCE IS PATIENT pixel 178/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271121-6546bc@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:LANCE IS PATIENT pixel 179/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271124-b47105@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:LANCE IS PATIENT pixel 180/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271127-753219@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:LANCE IS PATIENT pixel 181/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271128-f2b13d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:LANCE IS PATIENT pixel 182/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271201-ade950@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:LANCE IS PATIENT pixel 183/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271204-73ce0c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+SUMMARY:LANCE IS PATIENT pixel 184/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271205-991090@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
+SUMMARY:LANCE IS PATIENT pixel 185/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271211-365490@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:LANCE IS PATIENT pixel 186/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271219-bfd789@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:LANCE IS PATIENT pixel 187/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271220-783124@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+SUMMARY:LANCE IS PATIENT pixel 188/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271221-244a4b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+SUMMARY:LANCE IS PATIENT pixel 189/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271222-c07f2e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:LANCE IS PATIENT pixel 190/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271223-28920f@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:LANCE IS PATIENT pixel 191/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271224-3a43e4@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:LANCE IS PATIENT pixel 192/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271225-6df5e7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:LANCE IS PATIENT pixel 193/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271227-cf2392@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:LANCE IS PATIENT pixel 194/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20271228-614599@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:LANCE IS PATIENT pixel 195/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280105-5ffabe@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280105
+DTEND;VALUE=DATE:20280106
+SUMMARY:LANCE IS PATIENT pixel 196/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280113-65eac8@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:LANCE IS PATIENT pixel 197/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280114-4fc3fb@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+SUMMARY:LANCE IS PATIENT pixel 198/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280116-b24baf@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280117
+SUMMARY:LANCE IS PATIENT pixel 199/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280117-2f327c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:LANCE IS PATIENT pixel 200/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280118-fcf0a1@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:LANCE IS PATIENT pixel 201/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280119-51b91c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:LANCE IS PATIENT pixel 202/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280120-8cc230@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:LANCE IS PATIENT pixel 203/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280121-0944a5@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:LANCE IS PATIENT pixel 204/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280122-5649b3@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280122
+DTEND;VALUE=DATE:20280123
+SUMMARY:LANCE IS PATIENT pixel 205/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280130-2153ea@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280130
+DTEND;VALUE=DATE:20280131
+SUMMARY:LANCE IS PATIENT pixel 206/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280206-dfceca@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280206
+DTEND;VALUE=DATE:20280207
+SUMMARY:LANCE IS PATIENT pixel 207/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280213-7efc2d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280213
+DTEND;VALUE=DATE:20280214
+SUMMARY:LANCE IS PATIENT pixel 208/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280214-b08e9b@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+SUMMARY:LANCE IS PATIENT pixel 209/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280215-83013c@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:LANCE IS PATIENT pixel 210/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280216-8cbc5e@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280216
+DTEND;VALUE=DATE:20280217
+SUMMARY:LANCE IS PATIENT pixel 211/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280217-5545e7@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:LANCE IS PATIENT pixel 212/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280218-c8747d@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280218
+DTEND;VALUE=DATE:20280219
+SUMMARY:LANCE IS PATIENT pixel 213/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280219-3d6894@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280219
+DTEND;VALUE=DATE:20280220
+SUMMARY:LANCE IS PATIENT pixel 214/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280220-c9affd@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280220
+DTEND;VALUE=DATE:20280221
+SUMMARY:LANCE IS PATIENT pixel 215/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lanceispatient-ab93f99a-20280227-4a63fe@landshark
+DTSTAMP:20260621T134528Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:LANCE IS PATIENT pixel 216/216 - run fill_pixel.sh
+DESCRIPTION:Run ./fill_pixel.sh in landshark to fill today's contribution square.
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Commit day - run fill_pixel.sh
+END:VALARM
+END:VEVENT
+END:VCALENDAR
